@@ -14,6 +14,7 @@ ol{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction:column;
 }
 li{
     font-size: 20px;
