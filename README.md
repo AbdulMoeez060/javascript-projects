@@ -1,2 +1,3 @@
-# javascript30
-This is for JavaScript 30 Course by Wesbos
+# JavaScript Projects
+<!-- This is for JavaScript 30 Course by Wesbos -->
+This repo will contain all JavaScript projects i'll do.
