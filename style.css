@@ -15,10 +15,12 @@ ol{
     justify-content: center;
     align-items: center;
     flex-direction:column;
+
 }
 li{
     font-size: 20px;
     color: white;
+    margin-bottom: 15px;
 }
 a{
     text-decoration: none;
