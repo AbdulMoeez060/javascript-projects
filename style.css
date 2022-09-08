@@ -4,6 +4,8 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
     background: linear-gradient(to right, #00aaff,#00ff6c);
+    color: rgba(255,255,255,0.9);
+
 }
 h1{
     text-align: center;
@@ -25,9 +27,11 @@ a{
     font-weight: bold;
     font-size: 24px;
     padding: 10px;
-    color: black;
     cursor: pointer;
+    color: rgba(255,255,255,0.9);
+
 }
 a:hover{
-    color: black;
+    color: rgba(255,255,255,0.5);
+
 }
